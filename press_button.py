@@ -1,4 +1,5 @@
 input('Нажмите "Enter"')
+print('script button')
 print('Выберите пункт доставки')
 input('1 или 2')
 print('New button')
